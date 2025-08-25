@@ -7,6 +7,14 @@
       "icon": "https://saalihbaglan.github.io/mygames/game1/icon.png",
       "thumbnail": "https://saalihbaglan.github.io/mygames/game1/thumb.png",
       "description": "Bu benim ilk oyunum."
+    },
+        {
+      "id": "game2",
+      "name": "İlk Oyun",
+      "url": "https://saalihbaglan.github.io/mygames/game2/index.html",
+      "icon": "https://saalihbaglan.github.io/mygames/game2/icon.png",
+      "thumbnail": "https://saalihbaglan.github.io/mygames/game2/thumb.png",
+      "description": "Bu benim ilk oyunum."
     }
   ]
 }
