@@ -1,0 +1,12 @@
+{
+    "post":[
+        {
+            "title": "Post-1",
+            "description": "Deneme Post",
+            "thumb": "https://drive.google.com/file/d/1hiDTxsfIjGh_9AUAqH26Xq7YO5zOMSkc/view?usp=drive_link",
+            "click": "www.google.com",
+            "date":"05.07.2000"
+        }
+
+    ]
+}
