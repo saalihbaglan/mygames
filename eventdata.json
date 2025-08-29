@@ -1,11 +1,15 @@
 {
     "events":[
         {
-            "title": "Post-1",
-            "description": "Deneme Post",
+            "title": "Brawl Pass Çekilisi",
+            "description": "Çekilişe Katılmak için Reklam izleyin!",
             "thumb": "https://drive.google.com/file/d/1hiDTxsfIjGh_9AUAqH26Xq7YO5zOMSkc/view?usp=drive_link",
             "click": "www.google.com",
-            "date":"05.07.2000"
+            "date":"05.07.2000",
+            "publisher": "Aytaç Karadas",
+            "finishDate":"05.09.2025",
+            "eventRewardCount":"2",
+            "status":false
         }
 
     ]
