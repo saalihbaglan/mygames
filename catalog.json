@@ -1,7 +1,7 @@
 {
-  "status":[
+  "status": [
     {
-      "isShowGame":true
+      "isShowGame": true
     }
   ],
   "games": [
@@ -11,7 +11,9 @@
       "url": "https://saalihbaglan.github.io/mygames/game1/index.html",
       "icon": "https://saalihbaglan.github.io/mygames/game1/icon.png",
       "thumbnail": "https://saalihbaglan.github.io/mygames/game1/thumb.png",
-      "description": "a battle gameing."
+      "description": "a battle gameing.",
+      "version": "1.0",
+      "status": true
     },
     {
       "id": "game2",
@@ -19,7 +21,9 @@
       "url": "https://saalihbaglan.github.io/mygames/game2/index.html",
       "icon": "https://saalihbaglan.github.io/mygames/game2/icon.png",
       "thumbnail": "https://saalihbaglan.github.io/mygames/game2/thumb.png",
-      "description": "a puzzle gameing."
+      "description": "a puzzle gameing.",
+      "version": "1.0",
+      "status": true
     },
     {
       "id": "game3",
@@ -27,7 +31,9 @@
       "url": "https://saalihbaglan.github.io/mygames/game3/index.html",
       "icon": "https://saalihbaglan.github.io/mygames/game3/icon.png",
       "thumbnail": "https://saalihbaglan.github.io/mygames/game3/thumb.jpg",
-      "description": "a mergeing gameing."
+      "description": "a mergeing gameing.",
+      "version": "1.0",
+      "status": true
     }
   ]
 }
