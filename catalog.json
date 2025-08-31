@@ -1,4 +1,9 @@
 {
+  "status":[
+    {
+      "isShowGame":true
+    }
+  ],
   "games": [
     {
       "id": "game1",
