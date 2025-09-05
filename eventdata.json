@@ -19,8 +19,8 @@
             "isRepeatable": false,  
             "priority": 1,  
             "regionLock": ["TR"],  
-            "googleScriptURL": "https://script.google.com/macros/s/AKfycbw8Zp-2nISf09GYoC4WKZ_wpeYyJv3CT0jTYNsEjR8x27KYkUDGoD1mRj_dhSieCfaAXw/exec",
-            "apiKey": "AKfycbw8Zp-2nISf09GYoC4WKZ_wpeYyJv3CT0jTYNsEjR8x27KYkUDGoD1mRj_dhSieCfaAXw",
+            "googleScriptURL": "https://script.google.com/macros/s/AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg/exec",
+            "apiKey": "AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg",
             "status": true
         }
     ]
