@@ -1,18 +1,27 @@
 {
-    "events":[
+    "events": [
         {
+            "id": "event_001", 
             "title": "Brawl Pass Çekilisi",
             "description": "Çekilişe Katılmak için Reklam izleyin!",
             "thumb": "https://drive.google.com/file/d/1aF38XzSbm12TDU-5x966GNjn2eb4o0ov/view?usp=drive_link",
             "click": "www.google.com",
-            "date":"05.07.2000",
+            "publishDate": "05.07.2000",
             "publisher": "Aytaç Karadas",
-            "finishDate":"05.09.2025",
-            "eventRewardCount":"5",
-            "googleScriptURL":"https://script.google.com/macros/s/AKfycbw8Zp-2nISf09GYoC4WKZ_wpeYyJv3CT0jTYNsEjR8x27KYkUDGoD1mRj_dhSieCfaAXw/exec",
-            "apiKey":"AKfycbw8Zp-2nISf09GYoC4WKZ_wpeYyJv3CT0jTYNsEjR8x27KYkUDGoD1mRj_dhSieCfaAXw",
-            "status":true
+            "finishDate": "05.09.2025",
+            "maxChance": 5,
+            "rewardCount": 4,
+            "rewardType": "Brawl Pass",  
+            "hasReward": true,  
+            "maxParticipants": -1,  
+            "hasChance": true,
+            "isAdRequired": true,  
+            "isRepeatable": false,  
+            "priority": 1,  
+            "regionLock": ["TR"],  
+            "googleScriptURL": "https://script.google.com/macros/s/AKfycbw8Zp-2nISf09GYoC4WKZ_wpeYyJv3CT0jTYNsEjR8x27KYkUDGoD1mRj_dhSieCfaAXw/exec",
+            "apiKey": "AKfycbw8Zp-2nISf09GYoC4WKZ_wpeYyJv3CT0jTYNsEjR8x27KYkUDGoD1mRj_dhSieCfaAXw",
+            "status": true
         }
-
     ]
 }
