@@ -3,9 +3,11 @@
         {
             "title": "Post-1",
             "description": "Deneme Post",
-            "thumb": "https://drive.google.com/file/d/1hiDTxsfIjGh_9AUAqH26Xq7YO5zOMSkc/view?usp=drive_link",
-            "click": "www.google.com",
-            "date":"05.07.2000",
+            "thumb": "https://drive.google.com/file/d/1qXDw9MPI4bZJpFn583wV1z7BEILd3xqj/view?usp=drive_link",
+            "channelThumbnail": "https://drive.google.com/file/d/1yEF0DDNBVbA55sT5Y0Ayf0QVBylLLQPT/view?usp=drive_link",
+            "channelName": "Aytaç Karadaş",
+            "click": "https://www.youtube.com/watch?v=66nWV95K3cc&t=100s",
+            "date":"31.08.2025",
             "status":true
         }
 
