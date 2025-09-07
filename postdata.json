@@ -1,5 +1,5 @@
 {
-    "post":[
+    "post": [
         {
             "title": "Brawl Stars Çin Versiyonu HER ŞEY BEDAVA ",
             "description": "",
@@ -7,9 +7,38 @@
             "channelThumbnail": "https://drive.google.com/file/d/1yEF0DDNBVbA55sT5Y0Ayf0QVBylLLQPT/view?usp=drive_link",
             "channelName": "Aytaç Karadaş",
             "click": "https://www.youtube.com/watch?v=66nWV95K3cc&t=100s",
-            "date":"31.08.2025",
-            "status":true
+            "date": "31.08.2025",
+            "status": true
+        },
+        {
+            "title": "Bedava Şeytan Hediyeleri!!",
+            "description": "",
+            "thumb": "https://drive.google.com/file/d/18-GrEt3uB1J1-TEZP3-9wGjLSl0ukDht/view?usp=drive_link",
+            "channelThumbnail": "https://drive.google.com/file/d/1yEF0DDNBVbA55sT5Y0Ayf0QVBylLLQPT/view?usp=drive_link",
+            "channelName": "Aytaç Karadaş",
+            "click": "https://www.youtube.com/watch?v=3oDYT5XJv-M&t=75s",
+            "date": "24.08.2025",
+            "status": true
+        },
+        {
+            "title": "Brawl Stars 30x Starr hediyesi açılımı (Bedava)",
+            "description": "",
+            "thumb": "https://drive.google.com/file/d/1VQA6awUziugse2qlwJPYxVRcoBickWMW/view?usp=drive_link",
+            "channelThumbnail": "https://drive.google.com/file/d/1yEF0DDNBVbA55sT5Y0Ayf0QVBylLLQPT/view?usp=drive_link",
+            "channelName": "Aytaç Karadaş",
+            "click": "https://www.youtube.com/watch?v=rTCU4-3fj9Y&t=20s",
+            "date": "20.08.2025",
+            "status": true
+        },
+         {
+            "title": "Brawl Stars Kupa kutusu 100 elmas çıktı",
+            "description": "",
+            "thumb": "https://drive.google.com/file/d/1eRpU_sHUqAQ6MLIvn6ZDbLtZW5_Ho-Z3/view?usp=drive_link",
+            "channelThumbnail": "https://drive.google.com/file/d/1yEF0DDNBVbA55sT5Y0Ayf0QVBylLLQPT/view?usp=drive_link",
+            "channelName": "Aytaç Karadaş",
+            "click": "https://www.youtube.com/watch?v=US8BEDLH2Gg",
+            "date": "20.08.2025",
+            "status": true
         }
-
     ]
 }
