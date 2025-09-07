@@ -5,6 +5,8 @@
             "upadteDate": "05.07.2025",
             "updateDescription": "First Update",    
             "updateLink": "https://play.google.com/store/apps/details?id=com.dagmagamestudio.brawlchallenge&utm_source=emea_Med",
+            "showAds": true,
+            "testAdsOpening": false,
             "status": true
         }
 }
