@@ -117,8 +117,8 @@
       createUnityInstance(canvas, config, (progress) => {
         progressBarFull.style.width = 100 * progress + "%";
       }).then((unityInstance) => {
-        // ✅ Artık unityInstance elimizde
-        window.unityInstance = unityInstance; // BURAYA EKLE
+        // ✅ Buraya ekle
+        window.unityInstance = unityInstance;
 
         loadingBar.style.display = "none";
         fullscreenButton.onclick = () => {
@@ -127,8 +127,9 @@
       }).catch((message) => {
         alert(message);
       });
-      };
-      document.body.appendChild(script);
+    };
+
+    document.body.appendChild(script);
 
   </script>
 </body>
