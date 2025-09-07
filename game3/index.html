@@ -57,11 +57,11 @@
       }
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/Build2.loader.js";
+      var loaderUrl = buildUrl + "/Yeni klasör.loader.js";
       var config = {
-        dataUrl: buildUrl + "/Build2.data",
-        frameworkUrl: buildUrl + "/Build2.framework.js",
-        codeUrl: buildUrl + "/Build2.wasm",
+        dataUrl: buildUrl + "/Yeni klasör.data",
+        frameworkUrl: buildUrl + "/Yeni klasör.framework.js",
+        codeUrl: buildUrl + "/Yeni klasör.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "DagmaGameStudio",
         productName: "Merge Charcter",
@@ -113,6 +113,7 @@
       script.src = loaderUrl;
       script.onload = () => {
         createUnityInstance(canvas, config, (progress) => {
+         window.unityInstance = instance;
           progressBarFull.style.width = 100 * progress + "%";
               }).then((unityInstance) => {
                 loadingBar.style.display = "none";
