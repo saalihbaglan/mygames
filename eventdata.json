@@ -3,12 +3,12 @@
         {
             "id": "event_001", 
             "title": "Brawl Pass Çekilisi",
-            "description": "Çekilişe Katılmak için Reklam izleyin!",
+            "description": "Çekiliş TamamLandı!",
             "thumb": "https://drive.google.com/file/d/1aF38XzSbm12TDU-5x966GNjn2eb4o0ov/view?usp=drive_link",
             "click": "www.google.com",
             "publishDate": "05.07.2000",
             "publisher": "Aytaç Karadas",
-            "finishDate": "13.09.2025",
+            "finishDate": "12.09.2025",
             "maxChance": 5,
             "rewardCount": 4,
             "rewardType": "Brawl Pass",  
@@ -22,7 +22,7 @@
             "googleScriptURL": "https://script.google.com/macros/s/AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg/exec",
             "apiKey": "AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg",
             "RewardedAdId": "Rewarded-Event-Aytac",
-            "status": true
+            "status": false
         }
     ]
 }
