@@ -54,7 +54,7 @@
             "RewardedAdId": "Rewarded-Event-Salih",
             "startEvent":true,
             "showInApp": true,
-            "status": true,
+            "status": false,
             "testMode": false
         }
 
