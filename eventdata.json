@@ -22,6 +22,7 @@
             "googleScriptURL": "https://script.google.com/macros/s/AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg/exec",
             "apiKey": "AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg",
             "RewardedAdId": "Rewarded-Event-Aytac",
+            "startEvent":false,
             "showInApp": false,
             "status": false,
             "testMode": false
@@ -49,6 +50,7 @@
             "googleScriptURL": "https://script.google.com/macros/s/AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg/exec",
             "apiKey": "AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg",
             "RewardedAdId": "Rewarded-Event-Aytac",
+            "startEvent":true,
             "showInApp": true,
             "status": true,
             "testMode": false
