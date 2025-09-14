@@ -22,8 +22,10 @@
             "googleScriptURL": "https://script.google.com/macros/s/AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg/exec",
             "apiKey": "AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg",
             "RewardedAdId": "Rewarded-Event-Aytac",
-            "showInApp": true,
-            "status": false
+            "showInApp": false,
+            "status": false,
+            "testMode": false
+
         },
          {
             "id": "event_001", 
@@ -48,7 +50,8 @@
             "apiKey": "AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg",
             "RewardedAdId": "Rewarded-Event-Aytac",
             "showInApp": true,
-            "status": true
+            "status": true,
+            "testMode": false
         }
 
     ]
