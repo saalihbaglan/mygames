@@ -24,7 +24,7 @@
             "RewardedAdId": "Rewarded-Event-Aytac",
             "startEvent":false,
             "showInApp": true,
-            "status": true,
+            "status": false,
             "testMode": false
 
         },
@@ -52,7 +52,7 @@
             "RewardedAdId": "Rewarded-Event-Aytac",
             "startEvent":true,
             "showInApp": true,
-            "status": true,
+            "status": false,
             "testMode": false
         }
 
