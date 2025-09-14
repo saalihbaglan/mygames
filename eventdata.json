@@ -57,7 +57,7 @@
             "startEvent":true,
             "showInApp": true,
             "status": false,
-            "testMode": false
+            "testMode": true
         }
 
     ]
