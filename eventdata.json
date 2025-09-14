@@ -8,7 +8,7 @@
             "click": "www.google.com",
             "publishDate": "05.07.2000",
             "publisher": "Aytaç Karadas",
-            "finishDate": "12.09.2025",
+            "finishDate": "12.10.2025",
             "maxChance": 5,
             "rewardCount": 4,
             "rewardType": "Brawl Pass",  
@@ -23,8 +23,8 @@
             "apiKey": "AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg",
             "RewardedAdId": "Rewarded-Event-Aytac",
             "startEvent":false,
-            "showInApp": false,
-            "status": false,
+            "showInApp": true,
+            "status": true,
             "testMode": false
 
         },
