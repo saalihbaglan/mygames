@@ -1,35 +1,5 @@
 {
     "events": [
-        {
-            "id": "event_001", 
-            "title": "Brawl Pass Çekilisi",
-            "description": "Çekiliş TamamLandı!",
-            "thumb": "https://drive.google.com/file/d/1aF38XzSbm12TDU-5x966GNjn2eb4o0ov/view?usp=drive_link",
-            "click": "www.google.com",
-            "publishDate": "05.07.2000",
-            "publisher": "Aytaç Karadas",
-            "publisherChanel":"https://www.youtube.com/@GamsızSinek",
-            "publisherContatButton":"Youtube",
-            "finishDate": "12.10.2025",
-            "maxChance": 5,
-            "rewardCount": 4,
-            "rewardType": "Brawl Pass",  
-            "hasReward": true,  
-            "maxParticipants": -1,  
-            "hasChance": true,
-            "isAdRequired": true,  
-            "isRepeatable": false,  
-            "priority": 1,  
-            "regionLock": ["TR"],  
-            "googleScriptURL": "https://script.google.com/macros/s/AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg/exec",
-            "apiKey": "AKfycbxdPOaej7qAU6XeUJ8d_t-qIPKXtHWZQhfJ7Q8Y8IwMhq8S8GKAv6DYhA1FoEgL8ONtdg",
-            "RewardedAdId": "Rewarded-Event-Aytac",
-            "startEvent":false,
-            "showInApp": false,
-            "status": false,
-            "testMode": false
-
-        },
          {
             "id": "event_001", 
             "title": "2x Brawl Pass Çekilisi",
