@@ -24,9 +24,9 @@
             "googleScriptURL": "https://script.google.com/macros/s/AKfycbw8GFZxf33zZop4msHIPQHv984QzEAmOgHQ5RVT3rAbaGc6ODVx9pcw-jAfWaJ2GAkk/exec",
             "apiKey": "AKfycbw8GFZxf33zZop4msHIPQHv984QzEAmOgHQ5RVT3rAbaGc6ODVx9pcw-jAfWaJ2GAkk",
             "RewardedAdId": "Rewarded-Event-Salih",
-            "startEvent":true,
-            "showInApp": true,
-            "status": true,
+            "startEvent":false,
+            "showInApp": false,
+            "status": false,
             "testMode": false
         }
 
