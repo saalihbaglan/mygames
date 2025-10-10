@@ -31,8 +31,8 @@
         }
     ],
     "eventRequestSettings": {
-        "googleSheetsApiKey": "AKfycbykcy7-uTGB8wwupUwNznesgomxYXgIsH5_hMnYvGcQo3oruipkXXHhxaZLU33PXAXh9A",
-        "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbykcy7-uTGB8wwupUwNznesgomxYXgIsH5_hMnYvGcQo3oruipkXXHhxaZLU33PXAXh9A/exec",
+        "googleSheetsApiKey": "AKfycbyjUxCIZDhJLtQgg40kN22QgcsFBTxocRUF-QrqhE8ArP5ABKN8oRu0cOiK2oFXySSP8g",
+        "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbyjUxCIZDhJLtQgg40kN22QgcsFBTxocRUF-QrqhE8ArP5ABKN8oRu0cOiK2oFXySSP8g/exec",
         "targetRequestCount": 1000,
         "rewardedAdId": "Rewarded-Ads",
         "isEnabled": true
