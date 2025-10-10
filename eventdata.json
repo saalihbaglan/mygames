@@ -29,6 +29,12 @@
             "status": false,
             "testMode": false
         }
-
-    ]
+    ],
+    "eventRequestSettings": {
+        "googleSheetsApiKey": "AKfycbx2kNslzUtAQeXNKDrfI_qTFgQ-6QZ4Tai6pYSToB9eUZQ-bcwb_jop9KhYpUwbHDJFzw",
+        "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbx2kNslzUtAQeXNKDrfI_qTFgQ-6QZ4Tai6pYSToB9eUZQ-bcwb_jop9KhYpUwbHDJFzw/exec",
+        "targetRequestCount": 1000,
+        "rewardedAdId": "Rewarded-Ads",
+        "isEnabled": true
+    }
 }
