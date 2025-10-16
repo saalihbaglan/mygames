@@ -33,7 +33,7 @@
     "eventRequestSettings": {
         "googleSheetsApiKey": "AKfycbyginx-9zG3awkephbqb1hmqPT3vzquPyCSJeOj7yPZZPbD2-Nn1StnNv3zGxcweKUL5Q",
         "googleSheetsUrl": "https://script.google.com/macros/s/AKfycbyginx-9zG3awkephbqb1hmqPT3vzquPyCSJeOj7yPZZPbD2-Nn1StnNv3zGxcweKUL5Q/exec",
-        "targetRequestCount": 1000,
+        "targetRequestCount": 2000,
         "rewardedAdId": "Rewarded-Ads",
         "isEnabled": true
     }
