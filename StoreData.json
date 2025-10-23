@@ -1,32 +1,48 @@
 {
 
-  "publish": [
+  "published": [
     {
       "id": "game1",
       "name": "Colorful Playland Baby Game",
       "publishedDate": "2025-10-23",
-      "link": "https://drive.google.com/drive/folders/1xWqMU3a1SJHVVuFMtBeR9-XZA3vauCOd?usp=sharing",
+      "imageLink": "https://drive.google.com/drive/folders/1xWqMU3a1SJHVVuFMtBeR9-XZA3vauCOd?usp=sharing",
+      "playLink": "",
+      "playStoreLink": "",
+      "directDownloadLink": "",
+      "playStatus": false,
       "status": "published"
     },
     {
       "id": "game2",
       "name": "Littlestars Wonderland",
       "publishedDate": "2025-10-23",
-      "link": "https://drive.google.com/open?id=1eOSsYsQ7_Mt3-5Wt4jpEFmMuJ1lUb59h&usp=drive_copy",
+      "imageLink": "https://drive.google.com/open?id=1eOSsYsQ7_Mt3-5Wt4jpEFmMuJ1lUb59h&usp=drive_copy",
+      "playLink": "",
+      "playStoreLink": "",
+      "directDownloadLink": "",
+      "playStatus": false,
       "status": "published"
     },
     {
       "id": "game3",
       "name": "Merge Character",
       "publishedDate": "2025-10-23",
-      "link": "https://drive.google.com/open?id=1qmxwiTRUMTa2t5keBYIeyUMoaEImm3pL&usp=drive_copy",
+      "imageLink": "https://drive.google.com/open?id=1qmxwiTRUMTa2t5keBYIeyUMoaEImm3pL&usp=drive_copy",
+      "playLink": "",
+      "playStoreLink": "",
+      "directDownloadLink": "",
+      "playStatus": false,
       "status": "published"
     },
     {
       "id": "game4",
       "name": "Merge Of Dagma",
       "publishedDate": "2025-10-23",
-      "link": "https://drive.google.com/open?id=19zMs1kutAOqcegFHGfP2KXuytM_YhIl9&usp=drive_copy",
+      "imageLink": "https://drive.google.com/open?id=19zMs1kutAOqcegFHGfP2KXuytM_YhIl9&usp=drive_copy",
+      "playLink": "",
+      "playStoreLink": "",
+      "directDownloadLink": "",
+      "playStatus": false,
       "status": "published"
     }
   ],
@@ -38,7 +54,10 @@
       "name": "Angry Birds Clone",
       "version": "1.0.0",
       "creationDate": "2025-10-23",
-      "link": "https://drive.google.com/open?id=1d2uu7UH-30DeacV8WUv3DOXiYfI2KDAZ&usp=drive_copy",
+      "imageLink": "https://drive.google.com/open?id=1d2uu7UH-30DeacV8WUv3DOXiYfI2KDAZ&usp=drive_copy",
+      "playLink": "",
+      "directDownloadLink": "",
+      "playStatus": false,
       "status": "prototype"
     },
     {
@@ -46,7 +65,10 @@
       "name": "Bomberman Online",
       "version": "1.0.0",
       "creationDate": "2025-10-23",
-      "link": "https://drive.google.com/open?id=1Rlry_Ey4XjltyzPMYcfjYdb17ogcBOpk&usp=drive_copy",
+      "imageLink": "https://drive.google.com/open?id=1Rlry_Ey4XjltyzPMYcfjYdb17ogcBOpk&usp=drive_copy",
+      "playLink": "",
+      "directDownloadLink": "",
+      "playStatus": false,
       "status": "prototype"
     },
     {
@@ -54,7 +76,10 @@
       "name": "Bullet Rush",
       "version": "1.0.0",
       "creationDate": "2025-10-23",
-      "link": "https://drive.google.com/open?id=1P_Tm7YpxqsKLO3Tl7nWspiDFJ61YLyI_&usp=drive_copy",
+      "imageLink": "https://drive.google.com/open?id=1P_Tm7YpxqsKLO3Tl7nWspiDFJ61YLyI_&usp=drive_copy",
+      "playLink": "",
+      "directDownloadLink": "",
+      "playStatus": false,
       "status": "prototype"
     },
     {
@@ -62,7 +87,10 @@
       "name": "Count Masters Clone",
       "version": "1.0.0",
       "creationDate": "2025-10-23",
-      "link": "https://drive.google.com/open?id=1JnO8ViAE-81sw1DvT-dCT5E13i54K-Bg&usp=drive_copy",
+      "imageLink": "https://drive.google.com/open?id=1JnO8ViAE-81sw1DvT-dCT5E13i54K-Bg&usp=drive_copy",
+      "playLink": "",
+      "directDownloadLink": "",
+      "playStatus": false,
       "status": "prototype"
     },
     {
@@ -70,7 +98,10 @@
       "name": "Helix Jump Clone",
       "version": "1.0.0",
       "creationDate": "2025-10-23",
-      "link": "https://drive.google.com/open?id=1Gp5tLmwuD1jkJR5dBwountuwug9u0wIp&usp=drive_copy",
+      "imageLink": "https://drive.google.com/open?id=1Gp5tLmwuD1jkJR5dBwountuwug9u0wIp&usp=drive_copy",
+      "playLink": "",
+      "directDownloadLink": "",
+      "playStatus": false,
       "status": "prototype"
     }
   ],
@@ -85,7 +116,10 @@
       "name": "Merge 2048_Extreme",
       "version": "1.0.0",
       "deprecatedDate": "2025-10-23",
-      "link": "https://drive.google.com/open?id=1OHIpQOMBMOCnctMUEOiDKaXtYGbISwqE&usp=drive_copy",
+      "imageLink": "https://drive.google.com/open?id=1OHIpQOMBMOCnctMUEOiDKaXtYGbISwqE&usp=drive_copy",
+      "playLink": "",
+      "directDownloadLink": "",
+      "playStatus": false,
       "status": "deprecated"
     }
   ]
